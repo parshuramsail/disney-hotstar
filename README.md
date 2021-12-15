@@ -1,7 +1,7 @@
 # DisneyPlusHotstarClone
 <p>The aim of this project is  to build a clone of Disney plus Hotstar</p>
 
-## Live Demo : [Click here](https://todoparesh.herokuapp.com/login/?next=//)
+## Live Demo : [Click here](https://disneyplushot.herokuapp.com/)
 
 ## Skills Required
 * Python
